@@ -4,6 +4,10 @@
 
 ❤𝑳𝒐𝒗𝒆 𝑳𝒖𝒎𝒊𝒏𝒆❤!!!!!!!
 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
+[![kali](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://kali.org/)
 - 👣 I’m currently learning Network Security
 - 💝 Who's Lumine?      ☞
 - 💗 I like to play games, my favs are CS2 and minecraft Bedwars
@@ -19,9 +23,6 @@
 ### Very nice to meet U! and I Love LUMINE!!!!
 <img width="175px" align="right" src="https://raw.githubusercontent.com/Love-Lumine/Love-Lumine/refs/heads/main/1731427162531.jpg"/>
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
-[![kali](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://kali.org/)
+
 
 <img width="175px" aligen="right" src="https://github.com/Love-Lumine/Love-Lumine/blob/main/1731427142309.jpg?raw=true"/>

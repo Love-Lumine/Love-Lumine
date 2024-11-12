@@ -8,7 +8,7 @@
 - 💝 Who's Lumine?      ☞
 - 💗 I like to play games, my favs are CS2 and minecraft Bedwars
 - 📫 Contact me: QQ: 3676714827 or [eMail](https://skate-yy@hotmail.com)
-- [![bilibili](https://i0.hdslb.com/bfs/static/jinkela/long/images/favicon.ico)](https://space.bilibili.com/3461566580132257)
+ [![bilibili](https://i0.hdslb.com/bfs/static/jinkela/long/images/favicon.ico)](https://space.bilibili.com/3461566580132257)
 [![steam](https://raw.githubusercontent.com/Love-Lumine/Love-Lumine/refs/heads/main/steam-icon.png)](https://steamcommunity.com/id/Love_Lumine)
 [![youtube](https://www.youtube.com/s/desktop/d96517c3/img/logos/favicon_32x32.png)](https://youtube.com/@Skateyy_Lumine)
 

@@ -11,4 +11,4 @@
 
 ### Very nice to meet U! and I Love LUMINE!!!!
 <img width="175px" align="down" src="https://raw.githubusercontent.com/Love-Lumine/Love-Lumine/refs/heads/main/1731427162531.jpg"/>
-<img width="175px" aligen="left" src="https://github.com/Love-Lumine/Love-Lumine/blob/main/1731427142309.jpg?raw=true"/>
+<img width="175px" aligen="right" src="https://github.com/Love-Lumine/Love-Lumine/blob/main/1731427142309.jpg?raw=true"/>

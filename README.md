@@ -7,6 +7,6 @@
 - 👣 I’m currently learning Network Security
 - 💝 Who's Lumine?      ☞
 - 💗 I like to play games, my favs are CS2 and minecraft Bedwars
-- 📫 How to contact me: QQ: 3676714827 or eMail [@skate-yy](skate-yy@hotmail.com)
+- 📫 How to contact me: QQ: 3676714827 or [eMail](https://skate-yy@hotmail.com)
 
 ### Very nice to meet U! and I Love LUMINE!!!!

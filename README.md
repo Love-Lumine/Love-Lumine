@@ -1,13 +1,16 @@
 <img width="350px" align="right" src="https://raw.githubusercontent.com/Love-Lumine/Love-Lumine/refs/heads/main/1731426892115.png"/>
 
-###       Here is 『y』's G1tHu8 ✨✨✨
+###       Here is 『𝒚』's G1tHu8 ✨✨✨
 
 ❤𝑳𝒐𝒗𝒆 𝑳𝒖𝒎𝒊𝒏𝒆❤!!!!!!!
 
 - 👣 I’m currently learning Network Security
 - 💝 Who's Lumine?      ☞
 - 💗 I like to play games, my favs are CS2 and minecraft Bedwars
-- 📫 How to contact me: QQ: 3676714827 or [eMail](https://skate-yy@hotmail.com)
+- 📫 Contact me: QQ: 3676714827 or [eMail](https://skate-yy@hotmail.com)
+- ♕  [![bilibili](https://cdn.fireopen.cn/fireopen/web_front_resource2/img/bilibili1.168c619.png)](https://space.bilibili.com/3461566580132257)
+[![steam](https://cdn.fireopen.cn/fireopen/web_front_resource2/img/steam1.4842a7e.png)](https://steamcommunity.com/id/Love_Lumine)
+[![youtube](https://cdn.fireopen.cn/fireopen/web_front_resource2/img/youtube.f3da2ce.png)](https://youtube.com/@Skateyy_Lumine)
 
 ### Very nice to meet U! and I Love LUMINE!!!!
 <img width="175px" align="right" src="https://raw.githubusercontent.com/Love-Lumine/Love-Lumine/refs/heads/main/1731427162531.jpg"/>

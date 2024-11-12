@@ -2,7 +2,9 @@
 
 ###       Here is 『𝒚』's G1tHu8 ✨✨✨
 
-❤𝑳𝒐𝒗𝒆 𝑳𝒖𝒎𝒊𝒏𝒆❤!!!!!!!
+<h3>❤𝑳𝒐𝒗𝒆 𝑳𝒖𝒎𝒊𝒏𝒆❤!!!!!!!</h3>
+
+### about
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)

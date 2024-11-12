@@ -10,7 +10,7 @@
 - 📫 How to contact me: QQ: 3676714827 or [eMail](https://skate-yy@hotmail.com)
 
 ### Very nice to meet U! and I Love LUMINE!!!!
-<img width="175px" align="down" src="https://raw.githubusercontent.com/Love-Lumine/Love-Lumine/refs/heads/main/1731427162531.jpg"/>
+<img width="175px" align="right" src="https://raw.githubusercontent.com/Love-Lumine/Love-Lumine/refs/heads/main/1731427162531.jpg"/>
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)

@@ -20,7 +20,6 @@
 [![youtube](https://www.youtube.com/s/desktop/d96517c3/img/logos/favicon_32x32.png)](https://youtube.com/@Skateyy_Lumine)
 [![pronhub](https://raw.githubusercontent.com/Love-Lumine/Love-Lumine/refs/heads/main/7150904_pornhub_official_logo_icon.png)](https://www.bilibili.com/video/BV1bi421h79s)
 
-### Very nice to meet U! and I Love LUMINE!!!!
 <img width="175px" align="right" src="https://raw.githubusercontent.com/Love-Lumine/Love-Lumine/refs/heads/main/1731427162531.jpg"/>
 
 

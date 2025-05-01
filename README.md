@@ -12,7 +12,7 @@
 - 👣 I’m currently learning Network Security
 - 💝 Who's Lumine?      ☞
 - 💗 I like to play games, my favs are CS2 and minecraft Bedwars
-- 📫 Contact me: QQ: 3676714827 or [eMail](https://skate-yy@hotmail.com)
+- 📫 Contact me: QQ: 3676714827 or [eMail](https://skate-yy@hotmail.com) or Discord : Love_Lumine
 
 ###   Links
 

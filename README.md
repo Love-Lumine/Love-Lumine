@@ -11,8 +11,8 @@
 [![kali](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://kali.org/)
 - 👣 I’m currently learning Network Security
 - 💝 Who's Lumine?      ☞
-- 💗 I like to play games, my favs are CS2 and minecraft Bedwars
-- 📫 Contact me: QQ: 3676714827 or [eMail](https://skate-yy@hotmail.com) or Discord : Love_Lumine
+- 💗 NoLifer and ACG fan❤
+- 📫 Contact me: QQ: 3676714827 or [eMail](https://LoveLumine@hotmail.com) or Discord : Love_Lumine
 
 ###   Links
 

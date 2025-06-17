@@ -1,6 +1,6 @@
 <img width="350px" align="right" src="https://raw.githubusercontent.com/Love-Lumine/Love-Lumine/refs/heads/main/1731426892115.png"/>
 
-###       Here is 『𝒚』's G1tHu8 ✨✨✨
+###       ***Here is 『𝒚』's GitHub*** ✨✨✨
 
 <h3>❤𝑳𝒐𝒗𝒆 𝑳𝒖𝒎𝒊𝒏𝒆❤!!!!!!!</h3>
 

@@ -12,7 +12,7 @@
 - 👣 I’m currently learning CyberSecurity, AI, reverse enginering and social enginering
 - 💝 Who's Lumine?      ☞☞☞☞☞☞☞☞☞☞☞☞
 - Geshin Impact
-- 💗 NoLifer and ACG fan❤  [![anilist](https://github.com/Love-Lumine/Love-Lumine/blob/main/favicon-16x16.png?raw=true)](https://anilist/user/LoveLumine) [![genshin impact](https://genshin.hoyoverse.com/favicon.ico)](https://download-porter.hoyoverse.com/download-porter/2025/05/16/GenshinImpact_install_202504281702.exe?trace_key=GenshinImpact_install_ua_832f0633fef7)
+- 💗 NoLifer and ACG fan❤  [![anilist](https://github.com/Love-Lumine/Love-Lumine/blob/main/favicon-16x16.png?raw=true)](https://anilist.com/user/LoveLumine) [![genshin impact](https://genshin.hoyoverse.com/favicon.ico)](https://download-porter.hoyoverse.com/download-porter/2025/05/16/GenshinImpact_install_202504281702.exe?trace_key=GenshinImpact_install_ua_832f0633fef7)
 - 📫 Contact me: QQ: 3676714827 or [eMail](LoveLumine@hotmail.com) or Discord : Love_Lumine
 
 ###   Links

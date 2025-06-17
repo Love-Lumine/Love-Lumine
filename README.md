@@ -9,7 +9,7 @@
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
 [![kali](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://kali.org/)
-- 👣 I’m currently learning Network Security, AI, reverse enginering and social enginering
+- 👣 I’m currently learning CyberSecurity, AI, reverse enginering and social enginering
 - 💝 Who's Lumine?      ☞☞☞☞☞☞☞☞☞☞☞☞
 - Geshin Impact
 - 💗 NoLifer and ACG fan❤  [![anilist](https://github.com/Love-Lumine/Love-Lumine/blob/main/favicon-16x16.png?raw=true)](https://anilist/user/LoveLumine) [![genshin impact](https://genshin.hoyoverse.com/favicon.ico)](https://download-porter.hoyoverse.com/download-porter/2025/05/16/GenshinImpact_install_202504281702.exe?trace_key=GenshinImpact_install_ua_832f0633fef7)

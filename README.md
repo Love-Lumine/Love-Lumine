@@ -11,8 +11,8 @@
 [![kali](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://kali.org/)
 - 👣 I’m currently learning Network Security, AI, reverse enginering and social enginering
 - 💝 Who's Lumine?      ☞
-- 💗 NoLifer and ACG fan❤
-- 📫 Contact me: QQ: 3676714827 or [eMail](https://LoveLumine@hotmail.com) or Discord : Love_Lumine
+- 💗 NoLifer and ACG fan❤  [![anilist](https://github.com/Love-Lumine/Love-Lumine/blob/main/favicon-16x16.png?raw=true)](https://anilist/user/LoveLumine)
+- 📫 Contact me: QQ: 3676714827 or [eMail](LoveLumine@hotmail.com) or Discord : Love_Lumine
 
 ###   Links
 

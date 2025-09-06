@@ -20,5 +20,5 @@
 [![bilibili](https://i0.hdslb.com/bfs/static/jinkela/long/images/favicon.ico)](https://space.bilibili.com/3461566580132257)
 [![steam](https://raw.githubusercontent.com/Love-Lumine/Love-Lumine/refs/heads/main/steam-icon.png)](https://steamcommunity.com/id/Love_Lumine)
 [![youtube](https://www.youtube.com/s/desktop/d96517c3/img/logos/favicon_32x32.png)](https://youtube.com/@Love_Lumine)
-[![discord](https://raw.githubusercontent.com/Love-Lumine/Love-Lumine/refs/heads/main/discord.png)]([https://discord.gg/username:Love_Lumine](https://discord.com/users/1099351920616935446))
+[![discord](https://raw.githubusercontent.com/Love-Lumine/Love-Lumine/refs/heads/main/discord.png)](https://discord.com/users/1099351920616935446)
 [![pronhub](https://raw.githubusercontent.com/Love-Lumine/Love-Lumine/refs/heads/main/7150904_pornhub_official_logo_icon.png)](https://www.bilibili.com/video/BV1bi421h79s)
